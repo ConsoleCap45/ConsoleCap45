@@ -1,6 +1,7 @@
 <!-- -->
 
-![image](https://github.com/1041970/1041970/assets/67644755/e205f9fb-c481-47f0-ab0e-95cfa60c9bba)
+![image](https://github.com/ConsoleCap45/ConsoleCap45/assets/95167651/8dc35c15-3133-48a0-9274-cb8fb2634186)
+
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px" height="60px" />
 
