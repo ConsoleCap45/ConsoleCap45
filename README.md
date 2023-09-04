@@ -5,7 +5,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px" height="60px" />
 
-My name is Vignesh and I'm a software developer. I'm from India, living in Chennai, and currently doing my computer science engineering final years. You can find me on [LinkedIn](https://www.linkedin.com/in/jagan-t-2708b3228/)
+My name is Jagan and I'm a software developer. I'm from India, living in Chennai, and currently doing my computer science engineering final years. You can find me on [LinkedIn](https://www.linkedin.com/in/jagan-t-2708b3228/)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
